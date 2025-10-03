@@ -1,2 +1,2 @@
 # Learning-Repo
-Make For Learning the git and github
+Make For Learning the git and github.
